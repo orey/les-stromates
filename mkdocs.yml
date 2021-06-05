@@ -6,9 +6,10 @@ google_analytics: ['UA-110156293-1', 'orey.github.io']
 repo_url: https://github.com/orey/les-stromates/
 #theme: readthedocs
 site_dir: site
+extra_css: [extra.css]
 nav:
 - Home:
     - 'Index': 'index.md'
-    - 'Author': 'about/about.md'
+    - 'Author': 'about.md'
 - Livre1:
     - 'Chapitre 1': 'livre1/chapitre1.md'

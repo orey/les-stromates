@@ -3,8 +3,9 @@
 *L'auteur expose les matières qu'il va traiter, et montre de quelle utilité les écrivains sont pour leurs lecteurs.*
 
 
-Faut-il  ne  permettre  à  personne  d'écrire,  ou  faut-il l'accorder à quelques hommes ? S'il faut ne le permettre à personne, à quoi serviront les lettres ? S'il faut l'accorder à quelques hommes, ce sera ou aux hommes de bien, ou aux méchants.  Or,  il  serait  ridicule  de  repousser  les  écrits  des hommes  de  bien,  et  d'accepter  les  écrits  des  autres. Théopompe et Timée, ces auteurs de fables et de calomnies, Epicure aussi, ce père, ce chef de l'impiété, Hipponax enﬁn
-et Archiloque auraient la permission d'écrire leurs honteuses conceptions,  et  à  celui  qui  prêche  la  vérité,  il  serait défendu  de  transmettre  d'utiles  doctrines  à  la  postérité!  Il est  beau,  je  crois,  de  laisser  après  nous  des  enfants vertueux. Or, les enfants sont les fruits du corps, et les écrits les fruits de l'âme. Ne donnons-nous pas le nom de pères à nos  catéchistes ?  La  sagesse  aime  les  hommes  et  se communique volontiers. C'est pourquoi Salomon dit :
+Faut-il  ne  permettre  à  personne  d'écrire,  ou  faut-il l'accorder à quelques hommes ?
+
+S'il faut ne le permettre à personne, à quoi serviront les lettres ? S'il faut l'accorder à quelques hommes, ce sera ou aux hommes de bien, ou aux méchants.  Or,  il  serait  ridicule  de  repousser  les  écrits  des hommes  de  bien,  et  d'accepter  les  écrits  des  autres. Théopompe et Timée, ces auteurs de fables et de calomnies, Epicure aussi, ce père, ce chef de l'impiété, Hipponax enﬁn et Archiloque auraient la permission d'écrire leurs honteuses conceptions,  et  à  celui  qui  prêche  la  vérité,  il  serait défendu  de  transmettre  d'utiles  doctrines  à  la  postérité !  Il est  beau,  je  crois,  de  laisser  après  nous  des  enfants vertueux. Or, les enfants sont les fruits du corps, et les écrits les fruits de l'âme. Ne donnons-nous pas le nom de pères à nos  catéchistes ?  La  sagesse  aime  les  hommes  et  se communique volontiers. C'est pourquoi Salomon dit :
 
 > « Mon ﬁls, si tu reçois mes paroles, si tu renfermes mes préceptes  en  toi,  ton  oreille  s'ouvrira  pour  recevoir  la sagesse. »
 

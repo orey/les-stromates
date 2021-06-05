@@ -123,21 +123,6 @@ footer {
     margin-top: 60px;
 }
 
-p {
-    text-indent: 20px;
-    text-align: justify;
-}
-
-blockquote {
-  border: 1px solid lightblue;
-  background-color: lightblue;
-  padding-top: 10px;
-  padding-right: 10px;
-  padding-bottom: 0px;
-  padding-left: 10px;
-}
-
-
 /*
  * Side navigation
  *
@@ -326,5 +311,3 @@ h1:hover .headerlink, h2:hover .headerlink, h3:hover .headerlink, h4:hover .head
         margin-left: 10px;
     }
 }
-
-
