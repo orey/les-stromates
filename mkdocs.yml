@@ -1,0 +1,14 @@
+site_name: Les Stromates
+site_description: Les stromates, par Clément d\'Alexandrie
+site_author: Olivier Rey
+copyright: Domaine public
+google_analytics: ['UA-110156293-1', 'orey.github.io']
+repo_url: https://github.com/orey/les-stromates/
+#theme: readthedocs
+site_dir: site
+nav:
+- Home:
+    - 'Index': 'index.md'
+    - 'Author': 'about/about.md'
+- Livre1:
+    - 'Chapitre 1': 'livre1/chapitre1.md'
