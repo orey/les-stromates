@@ -12,4 +12,7 @@ nav:
     - 'Index': 'index.md'
     - 'Author': 'about.md'
 - Livre1:
-    - 'Chapitre 1': 'livre1/chapitre1.md'
+    - 'Chapitre 1': 'livre1/chapitre01.md'
+    - 'Chapitre 2': 'livre1/chapitre02.md'
+    - 'Chapitre 3': 'livre1/chapitre03.md'
+    - 'Chapitre 4': 'livre1/chapitre04.md'
