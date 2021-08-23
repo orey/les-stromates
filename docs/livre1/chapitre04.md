@@ -1,6 +1,6 @@
 # CHAPITRE IV
 
-* Les arts humains ne sont pas moins sortis de la main de Dieu que la science des choses divines.*
+*Les arts humains ne sont pas moins sortis de la main de Dieu que la science des choses divines.*
 
 Homère donne à un simple artisan le nom de sage, c'est ainsi qu'il s'exprime sur un certain Margites :
 
